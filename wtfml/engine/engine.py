@@ -4,7 +4,7 @@ __author__: Abhishek Thakur
 
 import datetime
 import torch
-from tqdm import tqdm
+from tqdm.notebook import tqdm
 from ..utils import AverageMeter
 
 try:
